@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://xiaoyao-ye.github.io/blog/initApi/light.svg" />
 </div>
-# initapi-example
 
 api生成工具简单示例
 
